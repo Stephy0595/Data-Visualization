@@ -1,4 +1,4 @@
-# Data-Visualization - Power BI Sales Report 
+# Data Visualization - Power BI Sales Report 
 # Overview 
 
 This report  is  an  analysis of sales transactions across different geographical levels (Country, Region, State, City) . It also includes  evaluation based on shipping costs, sales performance & profit.
